@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Poppins:wght@400;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.userProfile {
+  color: #fff;
+  text-decoration: none;
+}
+.navLinks {
+  color: #fff;
+  padding: 20px 10px 10px 20px;
+  text-decoration: none;
+}
+
+label {
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 10px 5px;
+}
+
+.loginContainer {
+  width: 50%;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+
+.loginInput,
+#textAreaSize {
+  flex: 80%;
+  width: 100%;
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px 0px 0px 4px;
+}
+
+.loginInput:focus,
+#textAreaSize:focus {
+  outline: none !important;
+  border: 1px solid #3e81ba;
+  letter-spacing: 0.5px;
+  box-shadow: 0 0 10px #3e81ba;
+}
+
+.loginInput.login,
+.loginInput.signUp {
+  color: #fff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  background-color: #49a019;
+}
+
+#textAreaSize {
+  font-size: 18px;
+  height: 100%;
+  width: 100%;
+  text-align: left;
+  height: 100px;
+  margin: 0;
+  resize: none;
+}
+.postContainer {
+  height: auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  width: 60%;
+  border-radius: 5px;
+  margin: 25px auto 20px auto;
+}
+
+.title {
+  margin: 10px auto 0 40px;
+  letter-spacing: 5px;
+  opacity: 0.6;
+  font-weight: bold;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.rightContainer {
+  font-style: italic;
+  width: 50%;
+  margin: auto;
+}

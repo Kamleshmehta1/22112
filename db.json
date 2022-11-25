@@ -1,0 +1,265 @@
+{
+  "userData": [
+    {
+      "email": "kamleshm1999@gmail.com",
+      "password": "$2a$10$a.FA1wqmEPrBR1ko5Z888OZj3I5FFsV/qXDhfHAKcAwqu8ifNNlCO",
+      "friendList": [
+        {
+          "rootUser": "x@g.com",
+          "name": "Netlify",
+          "image": "https://www.netlify.com/img/global/badges/netlify-light.svg",
+          "post": "Netlify11",
+          "id": "1669190585737"
+        },
+        {
+          "rootUser": "x@g.com",
+          "name": "Bugs Bunny",
+          "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "post": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\\n\\nLicensed under the Creative Commons Attribution license.",
+          "id": "1669199942507",
+          "date": "November 24, 2022"
+        },
+        {
+          "rootUser": "x@g.com",
+          "name": "HBO1",
+          "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "post": "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes",
+          "id": "1669200633282"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$a.FA1wqmEPrBR1ko5Z888OZj3I5FFsV/qXDhfHAKcAwqu8ifNNlCO",
+      "friendList": [
+        {
+          "rootUser": "x@g.com",
+          "name": "Netlify",
+          "image": "https://www.netlify.com/img/global/badges/netlify-light.svg",
+          "post": "Netlify11",
+          "id": "1669190585737"
+        },
+        {
+          "rootUser": "x@g.com",
+          "name": "Bugs Bunny",
+          "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "post": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\\n\\nLicensed under the Creative Commons Attribution license.",
+          "id": "1669199942507",
+          "date": "November 24, 2022"
+        },
+        {
+          "rootUser": "x@g.com",
+          "name": "HBO1",
+          "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "post": "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes",
+          "id": "1669200633282"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "email": "a@g.com",
+      "password": "$2a$10$a.FA1wqmEPrBR1ko5Z888OZj3I5FFsV/qXDhfHAKcAwqu8ifNNlCO",
+      "friendList": [
+        {
+          "rootUser": "x@g.com",
+          "name": "Netlify",
+          "image": "https://www.netlify.com/img/global/badges/netlify-light.svg",
+          "post": "Netlify11",
+          "id": "1669190585737"
+        },
+        {
+          "rootUser": "x@g.com",
+          "name": "Bugs Bunny",
+          "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "post": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\\n\\nLicensed under the Creative Commons Attribution license.",
+          "id": "1669199942507",
+          "date": "November 24, 2022"
+        },
+        {
+          "rootUser": "x@g.com",
+          "name": "HBO1",
+          "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "post": "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes",
+          "id": "1669200633282"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "email": "al@g.com",
+      "password": "$2a$10$ItGF4D/3fMk871i7OLOjWu2O2/oi7oCVEMfqp1aREOu4.23.rB5xW",
+      "friendList": [],
+      "id": 4
+    },
+    {
+      "email": "kamlesh@gmail.com",
+      "password": "$2a$10$EB77gzeALdcAiuEqGpF8ZuFdLn/.b7kkR2f89X9blFN1xkQdlAOHq",
+      "friendList": [],
+      "id": 5
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$E.7CRq07G54W4NmnRelEgOEdZHX4exJR9awCzuuolwqmcFzA/tqfy",
+      "friendList": [],
+      "id": 6
+    },
+    {
+      "email": "x@g.com",
+      "password": "$2a$10$NcBMuzAbjqApMirpbSdoaO5o1gPyRJq7yOsmpBUuxft6dTx5cbl4O",
+      "friendList": [
+        {
+          "rootUser": "kamleshm1999@gmail.com",
+          "name": "Lizard1",
+          "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+          "post": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica.\n\n\n",
+          "id": "1668936098066",
+          "date": "November 23, 2022"
+        },
+        {
+          "rootUser": "kamleshm1999@gmail.com",
+          "name": "Lizard3",
+          "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+          "post": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica..\n\n\n",
+          "id": "1668936366795",
+          "date": "November 23, 2022"
+        },
+        {
+          "rootUser": "kamleshm1999@gmail.com",
+          "id": "1669375854405",
+          "name": "new ",
+          "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+          "post": "new test case",
+          "date": "November 25, 2022"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "email": "new@g.com",
+      "password": "$2a$10$LluWKj2ywy6Wzb7sKjiF3OT2gNyzOvQVw4FdIrjsaiI85h6ivrmZy",
+      "friendList": [
+        {
+          "rootUser": "x@g.com",
+          "name": "Netlify",
+          "image": "https://www.netlify.com/img/global/badges/netlify-light.svg",
+          "post": "Netlify11",
+          "id": "1669190585737"
+        },
+        {
+          "rootUser": "x@g.com",
+          "name": "Bugs Bunny",
+          "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "post": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\\n\\nLicensed under the Creative Commons Attribution license.",
+          "id": "1669199942507",
+          "date": "November 24, 2022"
+        },
+        {
+          "rootUser": "x@g.com",
+          "name": "HBO1",
+          "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "post": "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes",
+          "id": "1669200633282"
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "userPosts": [
+    {
+      "rootUser": "kamleshm1999@gmail.com",
+      "name": "Lizard1",
+      "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+      "post": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica.\n\n\n",
+      "id": "1668936098066",
+      "date": "November 23, 2022"
+    },
+    {
+      "rootUser": "kamleshm1999@gmail.com",
+      "name": "Lizard3",
+      "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+      "post": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica..\n\n\n",
+      "id": "1668936366795",
+      "date": "November 23, 2022"
+    },
+    {
+      "rootUser": "abc@gmail.com",
+      "name": "Shrimp and Chorizo Paella",
+      "image": "https://mui.com/static/images/cards/paella.jpg",
+      "post": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.\n\n",
+      "id": "1668938193313",
+      "date": "November 23, 2022"
+    },
+    {
+      "rootUser": "a@g.com",
+      "id": "1669033663730",
+      "name": "Berries",
+      "image": "https://cookieandkate.com/images/2020/03/how-to-start-a-food-blog.jpg",
+      "post": "Our cookbook, Love Real Food, is here! Get your copy ↣Love Real Food\nHow to Start a Food Blog: Step by Step\nhow to start a food blog\nWant to start a food blog but don’t know where to start? I know how frustrating it can be to deal with technical stuff when you really just want to share that killer recipe. Whether you want to start a cooking blog, or you want to become a more successful food blogger, I hope these tips will ease your technical troubles.",
+      "date": "November 23, 2022"
+    },
+    {
+      "rootUser": "a@g.com",
+      "id": "1669033871881",
+      "name": "Travelling",
+      "image": "https://tiesinstitute.com/wp-content/uploads/2021/01/shutterstock_268004744-2.jpg",
+      "post": "Want to start a food blog but don’t know where to start? I know how frustrating it can be to deal with technical stuff when you really just want to share that killer recipe. Whether you want to start a cooking blog, or you want to become a more successful food blogger, I hope these tips will ease your technical troubles.",
+      "date": "November 23, 2022"
+    },
+    {
+      "rootUser": "a@g.com",
+      "id": "1669033920754",
+      "name": "Art",
+      "image": "https://mymodernmet.com/wp/wp-content/uploads/2017/04/top-art-blogs.jpg",
+      "post": "Whether you want to read in-depth artist interviews or simply scroll past imagery to get your creative juices flowing, there is something for everyone. Here's our curated list of the top 25 art sites now. Get clicking and see what's happening in the art world today.",
+      "date": "November 23, 2022"
+    },
+    {
+      "rootUser": "a@g.com",
+      "id": "1669033969537",
+      "name": "Painting",
+      "image": "https://dvyvvujm9h0uq.cloudfront.net/com/articles/1574743033-389837-art-blogsjpg.jpg",
+      "post": "If you are a creative professional looking for some inspiration or love art and design and would like to keep up with current trends, there are lots of art blogs that might help spark an idea and inspire you.",
+      "date": "November 23, 2022"
+    },
+    {
+      "rootUser": "a@g.com",
+      "name": "Animals",
+      "image": "https://www.amtmindia.org/wp-content/uploads/2022/11/Blog-The-Importance-of-Cat-Proofing-Your-House_Web-1536x803.jpg",
+      "post": "Cats are curious and nimble creatures that are known for getting into trouble more often than we expect them to. That’s why it’s important to ensure their safety by cat proofing your house. Read more to find out about the steps you can take to protect them from harm.",
+      "id": "1669034127403",
+      "date": "November 23, 2022"
+    },
+    {
+      "rootUser": "x@g.com",
+      "name": "Netlify",
+      "image": "https://www.netlify.com/img/global/badges/netlify-light.svg",
+      "post": "Netlify11",
+      "id": "1669190585737"
+    },
+    {
+      "rootUser": "x@g.com",
+      "name": "Bugs Bunny",
+      "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "post": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\\n\\nLicensed under the Creative Commons Attribution license.",
+      "id": "1669199942507",
+      "date": "November 24, 2022"
+    },
+    {
+      "rootUser": "x@g.com",
+      "name": "HBO1",
+      "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "post": "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes",
+      "id": "1669200633282"
+    },
+    {
+      "rootUser": "kamleshm1999@gmail.com",
+      "id": "1669375854405",
+      "name": "new ",
+      "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+      "post": "new test case",
+      "date": "November 25, 2022"
+    }
+  ]
+}
